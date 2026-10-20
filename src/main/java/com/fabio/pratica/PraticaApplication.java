@@ -1,0 +1,14 @@
+ b   
+ package com.fabio.pratica;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PraticaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PraticaApplication.class, args);
+	}
+
+}
